@@ -7,4 +7,4 @@ INTEGRANTES:
 Valeria Caicedo
 Andrés Alejandro Ayala Chamorro
 Vanessa López Gelpud
-Ivan Andres Santacruz
+Ivan Andres Santacruz. 
