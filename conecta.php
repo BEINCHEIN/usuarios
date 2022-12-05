@@ -1,8 +1,8 @@
 <?php
     function conectar(){
-        $bd = mysqli_connect("localhost","root","","registros");
+        $bd = mysqli_connect("localhost","root","","crudphp");
         if (!$bd){
-            echo "<h3>Error de conexión</h3>Base de datos  formularios no diponible";
+            echo "<h3>Error de conexión</h3>Base de datos usuarios no diponible";
             return NULL;
         }
         else{
